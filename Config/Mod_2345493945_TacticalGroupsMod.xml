@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayFood>True</DisplayFood>
+		<DisplayRest>True</DisplayRest>
+		<DisplayWeapons>True</DisplayWeapons>
+		<DisplayColorBars>True</DisplayColorBars>
+		<DisableLabelBackground>True</DisableLabelBackground>
+		<WeaponOverlayInside>False</WeaponOverlayInside>
+		<MarginTop>21</MarginTop>
+		<PawnScale>1</PawnScale>
+		<GroupScale>1</GroupScale>
+		<PawnNeedsWidth>4</PawnNeedsWidth>
+	</ModSettings>
+</SettingsBlock>

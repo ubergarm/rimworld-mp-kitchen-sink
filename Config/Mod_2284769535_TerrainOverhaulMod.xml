@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TerrainOverhaul.TO_Settings">
+		<DisabledTextures />
+		<FarmlandFertilityScale>1</FarmlandFertilityScale>
+		<FarmlandXPScale>1</FarmlandXPScale>
+	</ModSettings>
+</SettingsBlock>

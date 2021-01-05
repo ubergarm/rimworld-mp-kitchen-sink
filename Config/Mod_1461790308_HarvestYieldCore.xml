@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HarvestYieldPatch.HarvestYieldSettings">
+		<HarvestYieldMax>2</HarvestYieldMax>
+		<AnimalYieldMax>2</AnimalYieldMax>
+		<MiningYieldMax>2</MiningYieldMax>
+		<ButcherYieldMax>2</ButcherYieldMax>
+	</ModSettings>
+</SettingsBlock>
