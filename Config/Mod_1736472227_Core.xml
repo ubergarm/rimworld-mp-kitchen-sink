@@ -2,10 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="BorderOnPause.Settings">
 		<borderSize>25</borderSize>
-		<startAlpha>0.246478871</startAlpha>
-		<endAlpha>0.0793427229</endAlpha>
-		<color_R>0.812206566</color_R>
-		<color_G>0.791079819</color_G>
-		<color_B>0.773474157</color_B>
+		<startAlpha>0.372300506</startAlpha>
+		<endAlpha>0.019953046</endAlpha>
+		<color_R>0.841314495</color_R>
+		<color_G>0.922065616</color_G>
+		<color_B>0.841314614</color_B>
 	</ModSettings>
 </SettingsBlock>

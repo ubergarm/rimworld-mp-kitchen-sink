@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RationalRomance_Code.Settings">
-		<asexualChance>5</asexualChance>
-		<bisexualChance>20.2691193</bisexualChance>
-		<gayChance>10.9915018</gayChance>
-		<straightChance>65.5807266</straightChance>
-		<polyChance>10.7864914</polyChance>
-		<alienLoveChance>33</alienLoveChance>
+		<asexualChance>10</asexualChance>
+		<bisexualChance>20.6038494</bisexualChance>
+		<gayChance>20</gayChance>
+		<straightChance>50.42939</straightChance>
+		<polyChance>10.2412386</polyChance>
+		<alienLoveChance>75.789917</alienLoveChance>
 		<dateRate>100</dateRate>
 		<hookupRate>100</hookupRate>
 	</ModSettings>

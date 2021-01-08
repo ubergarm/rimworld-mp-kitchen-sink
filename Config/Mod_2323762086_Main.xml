@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="RimsecSecurity.ModSettings">
-		<peacekeeperNumber>21</peacekeeperNumber>
-		<energyShortageSeverityMult>10</energyShortageSeverityMult>
-	</ModSettings>
-</SettingsBlock>

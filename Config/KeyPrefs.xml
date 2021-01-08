@@ -463,72 +463,30 @@
     </value>
   </li>
   <li>
-    <key>DesignatorAllow</key>
-    <value>
-      <keyBindingA>Z</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorForbid</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorAllowAll</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorSelectSimilar</key>
-    <value>
-      <keyBindingA>P</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorHaulUrgently</key>
-    <value>
-      <keyBindingA>O</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorFinishOff</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorHarvestFullyGrown</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>DesignatorStripMine</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>ToolContextMenuAction</key>
-    <value>
-      <keyBindingA>Equals</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>ToggleRoomSenseOverlay</key>
     <value>
       <keyBindingA>Equals</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleHeatMap</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MiniMap</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PingTool</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -550,13 +508,6 @@
     <key>MintMenus_MintWheel</key>
     <value>
       <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>ToggleHeatMap</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -648,6 +599,20 @@
     <key>DPSquad9</key>
     <value>
       <keyBindingA>Keypad9</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_kNumbersOverviewTab</key>
+    <value>
+      <keyBindingA>Z</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

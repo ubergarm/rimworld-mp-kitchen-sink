@@ -28,8 +28,10 @@
 				<count>4</count>
 			</li>
 			<li>
+				<thingDef>AA_SkySteel</thingDef>
+			</li>
+			<li>
 				<thingDef>ComponentIndustrial</thingDef>
-				<count>4</count>
 			</li>
 		</QRY_OreDictionary>
 	</ModSettings>

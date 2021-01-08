@@ -3,7 +3,6 @@
 	<ModSettings Class="LWM.DeepStorage.Settings">
 		<storing_global_scale>1</storing_global_scale>
 		<robotsCanUse>False</robotsCanUse>
-		<int_to_use_DS>ToolUser</int_to_use_DS>
-		<default_s_priority>Normal</default_s_priority>
+		<useRightClickLogic>False</useRightClickLogic>
 	</ModSettings>
 </SettingsBlock>

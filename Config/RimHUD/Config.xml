@@ -85,7 +85,7 @@
     <Appearance>
       <StartOpacity>90</StartOpacity>
       <MouseOverOpacity>20</MouseOverOpacity>
-      <MinTime>1</MinTime>
+      <MinTime>0</MinTime>
       <FadeStart>500</FadeStart>
       <FadeLength>250</FadeLength>
       <MaxPerPawn>3</MaxPerPawn>

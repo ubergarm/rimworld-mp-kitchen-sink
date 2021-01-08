@@ -3,10 +3,7 @@
 	<ModSettings Class="Multiplayer.Client.MpSettings">
 		<username>Garm</username>
 		<serverSettings>
-			<maxPlayers>3</maxPlayers>
-			<autosaveInterval>1</autosaveInterval>
-			<steam>True</steam>
-			<lan>False</lan>
+			<autosaveInterval>0.5</autosaveInterval>
 		</serverSettings>
 	</ModSettings>
 </SettingsBlock>
