@@ -86,8 +86,16 @@
 				<li>AA_Thermadon</li>
 				<li>AA_Wildpawn</li>
 				<li>AA_Wildpod</li>
+				<li>AA_SandProwler</li>
+				<li>AA_FlamingoPhoenix</li>
+				<li>AA_Terramorph</li>
+				<li>AA_LuciferBug</li>
 			</keys>
 			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>

@@ -14,6 +14,7 @@
 		<flagAsteroid>True</flagAsteroid>
 		<flagAnimalisk>True</flagAnimalisk>
 		<flagMime>True</flagMime>
+		<flagFungalHusk>True</flagFungalHusk>
 		<flagAlphaMechanoids>True</flagAlphaMechanoids>
 		<flagAlphaMechanoidsSappers>True</flagAlphaMechanoidsSappers>
 		<flagHelixienCorpseEffect>True</flagHelixienCorpseEffect>

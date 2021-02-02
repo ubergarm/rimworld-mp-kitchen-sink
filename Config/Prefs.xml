@@ -13,9 +13,9 @@
   <showRealtimeClock>False</showRealtimeClock>
   <animalNameMode>None</animalNameMode>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
-  <adaptiveTrainingEnabled>True</adaptiveTrainingEnabled>
+  <adaptiveTrainingEnabled>False</adaptiveTrainingEnabled>
   <preferredNames />
-  <resourceReadoutCategorized>False</resourceReadoutCategorized>
+  <resourceReadoutCategorized>True</resourceReadoutCategorized>
   <runInBackground>False</runInBackground>
   <edgeScreenScroll>True</edgeScreenScroll>
   <temperatureMode>Celsius</temperatureMode>

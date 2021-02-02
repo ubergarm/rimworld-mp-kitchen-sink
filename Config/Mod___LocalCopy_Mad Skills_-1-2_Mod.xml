@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RTMadSkills.ModSettings">
+		<multiplier>0.5</multiplier>
+		<dailyXPSaturationThreshold>5000</dailyXPSaturationThreshold>
+		<saturatedXPMultiplier>0.25</saturatedXPMultiplier>
+	</ModSettings>
+</SettingsBlock>

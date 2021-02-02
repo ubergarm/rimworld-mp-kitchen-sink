@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NPCBonus.Settings">
+		<PreAppPct>100</PreAppPct>
+		<PreWpnPct>100</PreWpnPct>
+		<PreTchPct>100</PreTchPct>
+		<AppPct>75</AppPct>
+		<WpnPct>75</WpnPct>
+		<TchPct>75</TchPct>
+		<PostAppPct>50</PostAppPct>
+		<PostWpnPct>50</PostWpnPct>
+		<PostTchPct>50</PostTchPct>
+	</ModSettings>
+</SettingsBlock>

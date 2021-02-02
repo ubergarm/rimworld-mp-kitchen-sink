@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModList>
-	<Name>kitchen-sink-v0.5.1</Name>
+	<Name>kitchen-sink-v0.5.4</Name>
 	<modIds>
 		<li>brrainz.harmony</li>
 		<li>ludeon.rimworld</li>
@@ -24,10 +24,10 @@
 		<li>com.yayo.combat3</li>
 		<li>orion.xevarimhair</li>
 		<li>sargoskar.witcherhunt</li>
-		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>uuugggg.whatismypurpose</li>
 		<li>murmur.walllight</li>
 		<li>radzerp.wallcorners</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
 		<li>vanillaexpanded.vaeed</li>
 		<li>vanillaexpanded.vaeas</li>
 		<li>vanillaexpanded.vaets</li>
@@ -36,13 +36,13 @@
 		<li>mlie.variousspaceshipchunk</li>
 		<li>vanillaexpanded.achievements</li>
 		<li>vanillaexpanded.vwe</li>
-		<li>vanillaexpanded.vwehw</li>
 		<li>vanillaexpanded.vweq</li>
 		<li>vanillaexpanded.vwel</li>
+		<li>vanillaexpanded.vwehw</li>
+		<li>vanillaexpanded.vwec</li>
 		<li>sarg.geneticrim</li>
 		<li>vanillaexpanded.vtexgr</li>
 		<li>vanillaexpanded.vplantse</li>
-		<li>oskarpotocki.vanillafactionsexpanded.core</li>
 		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
 		<li>vanillaexpanded.vfecore</li>
 		<li>vanillaexpanded.vfeart</li>
@@ -73,7 +73,6 @@
 		<li>com.yayo.suppression</li>
 		<li>fluffy.stuffedfloors</li>
 		<li>mlie.sticklantern</li>
-		<li>earthyturtle.stackablechunks</li>
 		<li>linkolas.stabilize</li>
 		<li>smashphil.neceros.srtsexpanded</li>
 		<li>halo.rsf</li>
@@ -111,6 +110,7 @@
 		<li>linkolas.programmablevents</li>
 		<li>meltup.polyamorybeds.vanilla</li>
 		<li>xedos.personabond</li>
+		<li>hamster.personacoilguns</li>
 		<li>fed1splay.pawntargetfix</li>
 		<li>pathavoid.kv.rw</li>
 		<li>n7huntsman.palisades</li>
@@ -143,7 +143,6 @@
 		<li>ratys.madskills</li>
 		<li>troopersmith1.deathrattle</li>
 		<li>troopersmith1.lifesupport</li>
-		<li>earthyturtle.letstrade</li>
 		<li>mlie.lessarbitrarysurgery</li>
 		<li>sharpedo.kenshiapparel</li>
 		<li>dhultgren.keepbedownership</li>
@@ -223,6 +222,7 @@
 		<li>smashphil.carrycapacityfixed</li>
 		<li>brrainz.cameraplus</li>
 		<li>fuglypump.bulkstonecutting</li>
+		<li>bs.mbifvte</li>
 		<li>automatic.bionicicons</li>
 		<li>jm.bettertraders</li>
 		<li>meltup.beautifuloutdoors</li>
@@ -236,7 +236,9 @@
 		<li>spoonshortage.adogsaidanimalprosthetics</li>
 		<li>vse.perrypersistent</li>
 		<li>frozensnowfox.complexjobs</li>
+		<li>ubergarm.mpkitchensink</li>
 		<li>edb.preparecarefully</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>fluffy.modmanager</li>
 	</modIds>
 	<modNames>
@@ -262,10 +264,10 @@
 		<li>Yayo's Combat 3</li>
 		<li>Xeva's Rimhair</li>
 		<li>RimWorld - Witcher Monster Hunt</li>
-		<li>What's That Mod</li>
 		<li>What Is My Purpose</li>
 		<li>Wall Light</li>
 		<li>Wall Corners</li>
+		<li>Vanilla Expanded Framework</li>
 		<li>Vanilla Animals Expanded — Extreme Desert</li>
 		<li>Vanilla Animals Expanded — Arid Shrubland</li>
 		<li>Vanilla Animals Expanded — Tropical Swamp</li>
@@ -274,13 +276,13 @@
 		<li>Various Space Ship Chunk (Continued)</li>
 		<li>Vanilla Achievements Expanded</li>
 		<li>Vanilla Weapons Expanded</li>
-		<li>Vanilla Weapons Expanded - Heavy Weapons</li>
 		<li>Vanilla Weapons Expanded - Quickdraw</li>
 		<li>Vanilla Weapons Expanded - Laser</li>
+		<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li>Vanilla Weapons Expanded - Coilguns</li>
 		<li>Genetic Rim</li>
 		<li>Vanilla Textures Expanded - Genetic Rim</li>
 		<li>Vanilla Plants Expanded</li>
-		<li>Vanilla Expanded Framework</li>
 		<li>Vanilla Expanded - Royalty Patches</li>
 		<li>Vanilla Furniture Expanded</li>
 		<li>Vanilla Furniture Expanded - Art</li>
@@ -311,7 +313,6 @@
 		<li>Suppression</li>
 		<li>Stuffed Floors</li>
 		<li>Stick Lantern (Continued)</li>
-		<li>Stackable Chunks</li>
 		<li>Stabilize</li>
 		<li>SRTS Expanded</li>
 		<li>Rimworld: Spartan Foundry</li>
@@ -349,6 +350,7 @@
 		<li>ProgrammableVents</li>
 		<li>Polyamory Beds (Vanilla Edition)</li>
 		<li>Persona Bond Forge</li>
+		<li>Persona Coilguns</li>
 		<li>PawnTargetFix</li>
 		<li>[KV] Path Avoid</li>
 		<li>Palisades</li>
@@ -381,7 +383,6 @@
 		<li>Mad Skills</li>
 		<li>Death Rattle Continued [1.2]</li>
 		<li>Life Support Continued [1.1][1.2]</li>
-		<li>Let's Trade!</li>
 		<li>Less Arbitrary Surgery (Continued)</li>
 		<li>Kenshi Apparel Pack</li>
 		<li>Keep Bed Ownership</li>
@@ -461,6 +462,7 @@
 		<li>Carry Capacity Fixed</li>
 		<li>Camera+</li>
 		<li>Bulk Stonecutting</li>
+		<li>Bradson's Main Button Icons for Vanilla Textures Expanded</li>
 		<li>Bionic icons</li>
 		<li>Better Traders</li>
 		<li>Beautiful Outdoors</li>
@@ -474,7 +476,9 @@
 		<li>A Dog Said... Animal Prosthetics</li>
 		<li>Vanilla Storytellers Expanded - Perry Persistent</li>
 		<li>[FSF] Complex Jobs</li>
+		<li>Multiplayer Kitchen Sink</li>
 		<li>EdB Prepare Carefully</li>
+		<li>What's That Mod</li>
 		<li>Mod Manager</li>
 	</modNames>
 </ModList>

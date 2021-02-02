@@ -24,10 +24,10 @@
     <li>com.yayo.combat3</li>
     <li>orion.xevarimhair</li>
     <li>sargoskar.witcherhunt</li>
-    <li>co.uk.epicguru.whatsthatmod</li>
     <li>uuugggg.whatismypurpose</li>
     <li>murmur.walllight</li>
     <li>radzerp.wallcorners</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>vanillaexpanded.vaeed</li>
     <li>vanillaexpanded.vaeas</li>
     <li>vanillaexpanded.vaets</li>
@@ -36,13 +36,13 @@
     <li>mlie.variousspaceshipchunk</li>
     <li>vanillaexpanded.achievements</li>
     <li>vanillaexpanded.vwe</li>
-    <li>vanillaexpanded.vwehw</li>
     <li>vanillaexpanded.vweq</li>
     <li>vanillaexpanded.vwel</li>
+    <li>vanillaexpanded.vwehw</li>
+    <li>vanillaexpanded.vwec</li>
     <li>sarg.geneticrim</li>
     <li>vanillaexpanded.vtexgr</li>
     <li>vanillaexpanded.vplantse</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>vanillaexpanded.vfecore</li>
     <li>vanillaexpanded.vfeart</li>
@@ -73,7 +73,6 @@
     <li>com.yayo.suppression</li>
     <li>fluffy.stuffedfloors</li>
     <li>mlie.sticklantern</li>
-    <li>earthyturtle.stackablechunks</li>
     <li>linkolas.stabilize</li>
     <li>smashphil.neceros.srtsexpanded</li>
     <li>halo.rsf</li>
@@ -111,6 +110,7 @@
     <li>linkolas.programmablevents</li>
     <li>meltup.polyamorybeds.vanilla</li>
     <li>xedos.personabond</li>
+    <li>hamster.personacoilguns</li>
     <li>fed1splay.pawntargetfix</li>
     <li>pathavoid.kv.rw</li>
     <li>n7huntsman.palisades</li>
@@ -143,7 +143,6 @@
     <li>ratys.madskills</li>
     <li>troopersmith1.deathrattle</li>
     <li>troopersmith1.lifesupport</li>
-    <li>earthyturtle.letstrade</li>
     <li>mlie.lessarbitrarysurgery</li>
     <li>sharpedo.kenshiapparel</li>
     <li>dhultgren.keepbedownership</li>
@@ -223,6 +222,7 @@
     <li>smashphil.carrycapacityfixed</li>
     <li>brrainz.cameraplus</li>
     <li>fuglypump.bulkstonecutting</li>
+    <li>bs.mbifvte</li>
     <li>automatic.bionicicons</li>
     <li>jm.bettertraders</li>
     <li>meltup.beautifuloutdoors</li>
@@ -236,7 +236,9 @@
     <li>spoonshortage.adogsaidanimalprosthetics</li>
     <li>vse.perrypersistent</li>
     <li>frozensnowfox.complexjobs</li>
+    <li>ubergarm.mpkitchensink</li>
     <li>edb.preparecarefully</li>
+    <li>co.uk.epicguru.whatsthatmod</li>
     <li>fluffy.modmanager</li>
   </activeMods>
   <knownExpansions>

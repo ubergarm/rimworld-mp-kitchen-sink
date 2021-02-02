@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Rimatomics.Settings">
 		<MannedReactor>True</MannedReactor>
-		<LastVersion>Rimatomics 1.7.2297</LastVersion>
+		<LastVersion>Rimatomics 1.7.2342</LastVersion>
 		<FuelBurnRateInt>4</FuelBurnRateInt>
 		<PulseSizeScalingInt>4</PulseSizeScalingInt>
 		<RadiationStrengthInt>4</RadiationStrengthInt>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionControl.Settings">
+		<factionGrouping>1.40422547</factionGrouping>
+		<factionDensity>2</factionDensity>
+		<dynamicColors>False</dynamicColors>
+	</ModSettings>
+</SettingsBlock>
