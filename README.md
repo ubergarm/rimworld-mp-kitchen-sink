@@ -1,5 +1,9 @@
 Rimworld 1.2 Multiplayer Kitchen Sink Modpack
 ===
+*ARCHIVED*
+
+# Check out the updated version here: https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded
+
 [![License](https://i.creativecommons.org/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/3.0/)
 [![Version](https://img.shields.io/badge/Rimworld-1.2-green.svg)](http://rimworldgame.com/)
 
@@ -8,8 +12,8 @@ So many mods, good luck not desyncing!
 ## Host Installation
 *NOTE 1*: You might want to backup your existing `Config`, `HugsLib`, `ModLists`, and `Mods` folders first!
 
-1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2362582693) (like and favorite if you choose)
-2. Download the [latest config files here](https://github.com/ubergarm/rimworld-mp-kitchen-sink/archive/master.zip)
+1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609) (like and favorite if you choose)
+2. Download the [latest config files here](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded/archive/master.zip)
 3. Copy/paste the `Config`, `HugsLib`, and `ModLists` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
 4. Freeze/pin all your mod versions by copy/pasting all of the `1234567890` folders from `steamapps/workshop/content/294100/*` over into `steamapps/common/RimWorld/Mods/`. The mod configs in this repo assume that you do this step, and if you skip this step, you will have to manually load `Harmony` and `Mod Manager` in the proper order, restart rimworld, then load the provided `mp-kitchen-sink.xml` mod list and restart again.
 5. Zip up all the mods from step 4 above and provide them to your players directly to use so that even if new releases appear on steam it will not mess up your playthrough. Unfortunately, steam workshop does not keep older mod versions like a real package manager (e.g. curseforge/npm/apt/pypi/etc), so the tooling for "real modpacks" (e.g. like Minecraft supports) isn't easily available yet for RimWorld. This compressed zip file is ~1GiB at the time of writing.
